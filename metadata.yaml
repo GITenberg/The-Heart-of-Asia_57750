@@ -1,0 +1,34 @@
+_repo: The-Heart-of-Asia_57750
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Skrine, Francis Henry
+    aliases:
+    - Skrine, F. H. (Francis Henry)
+    - Skrine, Francis Henry Bennett
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '34752'
+    url: http://www.gutenberg.org/2009/agents/34752
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Henry_Skrine
+  - agent_name: Ross, Edward Denison
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '49579'
+    url: http://www.gutenberg.org/2009/agents/49579
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Denison_Ross
+description: ''
+gutenberg_issued: '2018-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asia, Central -- Relations -- Russia'
+- !lcsh 'Asia, Central -- History'
+- GITenberg
+title: The Heart of Asia
+url: http://www.gutenberg.org/ebooks/57750
